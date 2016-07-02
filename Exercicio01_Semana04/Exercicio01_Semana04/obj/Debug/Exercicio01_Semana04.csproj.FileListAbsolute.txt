@@ -1,0 +1,6 @@
+C:\Users\Mateus\Desktop\Exercicio01_Semana04\Exercicio01_Semana04\bin\Debug\Exercicio01_Semana04.exe.config
+C:\Users\Mateus\Desktop\Exercicio01_Semana04\Exercicio01_Semana04\bin\Debug\Exercicio01_Semana04.exe
+C:\Users\Mateus\Desktop\Exercicio01_Semana04\Exercicio01_Semana04\bin\Debug\Exercicio01_Semana04.pdb
+C:\Users\Mateus\Desktop\Exercicio01_Semana04\Exercicio01_Semana04\obj\Debug\Exercicio01_Semana04.csprojResolveAssemblyReference.cache
+C:\Users\Mateus\Desktop\Exercicio01_Semana04\Exercicio01_Semana04\obj\Debug\Exercicio01_Semana04.exe
+C:\Users\Mateus\Desktop\Exercicio01_Semana04\Exercicio01_Semana04\obj\Debug\Exercicio01_Semana04.pdb
