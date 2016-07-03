@@ -16,7 +16,11 @@ namespace Exercicio01_Semana04
 
         public int Retorna_Media()
         {
-            var soma = notas.Sum();
+            //Matheus, eu acho que não deveria haver variáveis Média e Soma pelo o que eu entendi.
+            //No caso, acho que ficaria assim: 
+            //return notas.Sum()/8;
+            //Não sei se está correto
+            var soma = notas.Sum();  
             var M = soma / 8;
             return M;
         }
