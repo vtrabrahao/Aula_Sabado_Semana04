@@ -9,14 +9,16 @@ namespace Exercicio01_Semana04
     class Vetor_Pasado
     {
         private int[] notas;
-        public Vetor_Pasado(int np1,int np2,int np3,int np4,int np5,int np6, int np7, int np8)
+        public Vetor_Pasado(params int[] x)
         {
-            notas = new int[] { np1, np2, np3, np4, np5, np6, np7, np8 };
+            notas = new int[x.Length];
+            notas = x; 
         }
 
         public int Retorna_Media()
         {
             var soma = notas.Sum();
+            Console.WriteLine("Soma = {0}", soma);
             var M = soma / 8;
             return M;
         }

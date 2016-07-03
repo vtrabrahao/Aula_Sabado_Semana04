@@ -15,19 +15,12 @@ namespace Exercicio01_Semana04
     {
         static void Main(string[] args)
         {
-            int n1 = 10;
-            int n2 = 10;
-            int n3 = 10;
-            int n4 = 10;
-            int n5 = 0;
-            int n6 = 0;
-            int n7 = 10;
-            int n8 = 10;
 
+            int[] Vetor_Notas = new int[] { 10, 10, 10, 10, 0, 0, 10, 10 };
 
-            Vetor_Pasado oito = new Vetor_Pasado(n1,n2,n3,n4,n5,n6,n7,n8);
+            Vetor_Pasado oito = new Vetor_Pasado(Vetor_Notas);
             var M = oito.Retorna_Media();
-            Console.WriteLine(M);
+            Console.WriteLine("Média = {0}",M); // 7,5 na verdade hehe...
             Console.ReadLine();
         }
     }
